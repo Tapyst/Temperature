@@ -1,2 +1,2 @@
-# Rooted
+# Temperature
 A little game I am working on.
